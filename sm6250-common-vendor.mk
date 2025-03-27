@@ -426,9 +426,6 @@ PRODUCT_PACKAGES += \
     libwfduibcsrcinterface_proprietary \
     libwfdutils_proprietary \
     libasphere \
-    libqcbassboost \
-    libqcreverb \
-    libqcvirt \
     libshoebox \
     vendor.qti.hardware.wifidisplaysessionl@1.0-halimpl \
     com.qti.eeprom.sunny_gc8034 \
